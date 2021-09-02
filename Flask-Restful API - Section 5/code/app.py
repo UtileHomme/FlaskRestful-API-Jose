@@ -12,7 +12,7 @@ app = Flask(__name__)
 app.secret_key = 'Jatin'
 api = Api(app)
 
-# changing the default token expiry time
+# changing the ddefault token expiry time
 app.config['JWT_EXPIRATION_DELTA'] = timedelta(seconds=30)
 jwt = JWT(app, authenticate, identity)
 
