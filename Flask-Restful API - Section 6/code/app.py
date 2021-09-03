@@ -1,18 +1,18 @@
 from datetime import timedelta
 
-from flask import Flask, request
-from flask_restful import Resource, Api, reqparse
-from flask_jwt import JWT, jwt_required
-from user import UserRegister
+from flask import Flask
+from flask_restful import Api
+from flask_jwt import JWT
+from resources.user import UserRegister
 
 from security import authenticate, identity
-from item import Item, ItemList
+from resources.item import Item, ItemList
 
 app = Flask(__name__)
 app.secret_key = 'Jatin'
 api = Api(app)
 
-# changing the ddfault token expiry time
+# changing the default token expiry time
 app.config['JWT_EXPIRATION_DELTA'] = timedelta(seconds=30)
 jwt = JWT(app, authenticate, identity)
 
