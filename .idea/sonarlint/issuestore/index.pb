@@ -27,3 +27,13 @@ V
 &19.  Lambda functions in Python/app.py,3/8/3833affb13d564629db357202383d2f2109c2409
 Y
 )Flask-RESTful API - Section 4/code/app.py,d/d/dd9bee904ef4dfe6c035ff75129f576230336477
+Y
+)Flask-Restful API - Section 5/code/app.py,5/6/5620a0154647e6b21cf4e4d2e1d7de495526f694
+Z
+*Flask-Restful API - Section 5/code/item.py,e/b/ebc74547b6f349a8f6c6634f54cc2a9847e3dde2
+^
+.Flask-Restful API - Section 5/code/security.py,f/b/fb7431e36cd12a6ec03f082e8ce992bd67726bce
+Z
+*Flask-Restful API - Section 5/code/user.py,b/3/b3b5c72f571617d7e018fff13c4b4134c9da6875
+c
+3Flask-Restful API - Section 5/code/create_tables.py,e/2/e2eb7799cb7a4bbf1e290ce68799e3d403af8454
