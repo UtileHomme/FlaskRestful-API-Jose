@@ -19,10 +19,6 @@ O
 11. Loops in Python/for_loop.py,9/3/933bbdf769791e0841f8be007bf7cc6bf50a5650
 R
 "14. Destructuring variables/app.py,f/9/f98a33981ce888b9220fd29989150bd902abaac5
-G
-13. Dictionaries/app.py,e/c/ec8e6f1b547b20170de75e611b08d5a418baa884
-N
-15. Functions in Python/app.py,1/4/1462cc83483cf9efe42336c81d8689bf6a026e36
 V
 &19.  Lambda functions in Python/app.py,3/8/3833affb13d564629db357202383d2f2109c2409
 Y
@@ -37,3 +33,53 @@ Z
 *Flask-Restful API - Section 5/code/user.py,b/3/b3b5c72f571617d7e018fff13c4b4134c9da6875
 c
 3Flask-Restful API - Section 5/code/create_tables.py,e/2/e2eb7799cb7a4bbf1e290ce68799e3d403af8454
+b
+2Flask-Restful API - Section 6/codes/models/user.py,4/3/438aa42afeb9ac7fa7906ff95f209af807893d0f
+e
+5Flask-Restful API - Section 6/codes/resources/user.py,8/b/8b40758d6d1e6d8fa3dcc1ec57b25e280836d4f7
+Z
+*Flask-Restful API - Section 6/codes/app.py,a/a/aacdbf57624be2d3117f0cdf0928bab4d86f7a44
+c
+3Flask-Restful API - Section 6/codes/models/store.py,c/e/ce7599f2cade879af99c9d8330421e017d1f4ef8
+d
+4Flask-Restful API - Section 6/codes/create_tables.py,4/0/40be3dfd3bc0e06c336b0ff4b59f3fa3f8750250
+f
+6Flask-Restful API - Section 6/codes/resources/store.py,f/1/f18441e9361bad04f3426771532b58e5c223b50e
+b
+2Flask-Restful API - Section 6/codes/models/item.py,4/3/43e236cef07cce16c4288cc182981f1f3e0b7cf6
+e
+5Flask-Restful API - Section 6/codes/resources/item.py,4/1/41cfd201894798a005849782aaa832e7a955ae6d
+r
+BFlask-Restful API - Section 6 - Heruko Deployment/codes/.gitignore,5/7/571831aecbc4b7a051ad745f1d023c70b429c855
+p
+@Flask-Restful API - Section 6 - Heruko Deployment/codes/Procfile,d/d/ddbe607381db39a247fde91d8317a2c92b10643d
+s
+CFlask-Restful API - Section 6 - Heruko Deployment/codes/runtime.txt,7/3/730af6c4d42308532cf62f007f980e60088ea674
+x
+HFlask-Restful API - Section 6 - Heruko Deployment/codes/create_tables.py,f/8/f8426df5bbca5311f00d9e3fab08cade2187f782
+m
+=Flask-Restful API - Section 6 - Heruko Deployment/codes/db.py,8/7/871c8c60d883f788f1504d09237b2cc92be8e2e2
+v
+FFlask-Restful API - Section 6 - Heruko Deployment/codes/models/user.py,3/2/323616e100c7aed61e3c61a52f5c02b32837f578
+v
+FFlask-Restful API - Section 6 - Heruko Deployment/codes/models/item.py,3/f/3f9c5a3280518318941b3757dd3e3b13a1f2e917
+y
+IFlask-Restful API - Section 6 - Heruko Deployment/codes/resources/item.py,a/2/a23179bbef19d8962031e5567baa2fe7bc1c1e23
+z
+JFlask-Restful API - Section 6 - Heruko Deployment/codes/resources/store.py,7/2/727840d3b5bec03a12e870956ad7bcd925858292
+y
+IFlask-Restful API - Section 6 - Heruko Deployment/codes/resources/user.py,9/e/9e51a7ef820072ff20349848cfd066d7595b1724
+q
+AFlask-Restful API - Section 6 - Heruko Deployment/codes/uwsgi.ini,9/a/9a1734e8487191d357bd925859bf51ebac695901
+s
+CFlask-Restful API - Section 6 - Heruko Deployment/codes/security.py,a/1/a1a2e7989b7d5a4e3903f0f652d02a82cbbcf8e4
+n
+>Flask-Restful API - Section 6 - Heruko Deployment/codes/run.py,5/a/5ac0620cffce389757caf466a3b6fc27552a9ee9
+n
+>Flask-Restful API - Section 6 - Heruko Deployment/codes/app.py,5/9/592b76628c0b74ce251e6ed8a53335a75ccce770
+x
+HFlask-Restful API - Section 6 - Heruko Deployment/codes/requirements.txt,9/a/9a852ad8a067588c0c53cbdf4e42d84f58ce4b26
+w
+GFlask-Restful API - Section 6 - Heruko Deployment/codes/models/store.py,4/0/40dc6606dac0ef13d6745974ea53d0554c692394
+N
+15. Functions in Python/app.py,1/4/1462cc83483cf9efe42336c81d8689bf6a026e36
