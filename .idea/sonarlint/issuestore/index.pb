@@ -83,3 +83,9 @@ w
 GFlask-Restful API - Section 6 - Heruko Deployment/codes/models/store.py,4/0/40dc6606dac0ef13d6745974ea53d0554c692394
 N
 15. Functions in Python/app.py,1/4/1462cc83483cf9efe42336c81d8689bf6a026e36
+]
+-16. Functions Arguments and Parameters/app.py,8/6/8614af3efb8cfb7b9337c4496506afb5a1f330ed
+S
+#17. Default parameter values/app.py,3/6/365b0374dbf4a734bd5ddb821e8afa85a8d2b2c6
+U
+%18. Functions returning values/app.py,0/f/0f72dde292d4fe467d7315293c06ec0cef304e68
