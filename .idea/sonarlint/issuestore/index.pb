@@ -14,8 +14,6 @@ X
 W
 '12. List comprehenions in Python/app.py,0/d/0df1cb3edda347f3bd1e0daeaa7560cf3a28b822
 O
-5. List, tuples and Sets/app.py,8/e/8eb35d5cd1317eb4f5b7a72d130817f02e696eb7
-O
 11. Loops in Python/for_loop.py,9/3/933bbdf769791e0841f8be007bf7cc6bf50a5650
 R
 "14. Destructuring variables/app.py,f/9/f98a33981ce888b9220fd29989150bd902abaac5
@@ -85,7 +83,13 @@ N
 15. Functions in Python/app.py,1/4/1462cc83483cf9efe42336c81d8689bf6a026e36
 ]
 -16. Functions Arguments and Parameters/app.py,8/6/8614af3efb8cfb7b9337c4496506afb5a1f330ed
-S
-#17. Default parameter values/app.py,3/6/365b0374dbf4a734bd5ddb821e8afa85a8d2b2c6
 U
 %18. Functions returning values/app.py,0/f/0f72dde292d4fe467d7315293c06ec0cef304e68
+Q
+!21. Dictionary Comparisons/app.py,9/f/9fe460828a52b61b6d8d98b81a96caaa401452b8
+S
+#17. Default parameter values/app.py,3/6/365b0374dbf4a734bd5ddb821e8afa85a8d2b2c6
+N
+22. Unpacking arguments/app.py,8/d/8d75de8400b49f93727cfa50dd39440f30081024
+`
+024. Object Oriented Programming in Python/app.py,d/6/d6b3b3dde1a2e391fa0c2d1220854e893bfc6a2a
