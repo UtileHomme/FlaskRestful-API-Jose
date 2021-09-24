@@ -93,3 +93,51 @@ N
 22. Unpacking arguments/app.py,8/d/8d75de8400b49f93727cfa50dd39440f30081024
 `
 024. Object Oriented Programming in Python/app.py,d/6/d6b3b3dde1a2e391fa0c2d1220854e893bfc6a2a
+V
+&23. Unpacking Keyword arguments/app.py,7/d/7d34e972d7cd6c4fff62a54504bf43eff29c0471
+W
+'25. Magic Methods _str and _repr/app.py,1/1/1119aa26456b343b543be1fdfcbbfc8824965800
+O
+5. List, tuples and Sets/app.py,8/e/8eb35d5cd1317eb4f5b7a72d130817f02e696eb7
+G
+13. Dictionaries/app.py,e/c/ec8e6f1b547b20170de75e611b08d5a418baa884
+[
++26. Class Methods and static Methods/app.py,4/c/4c926e93941e14b57cd1ba4550ffa3b83f93974d
+\
+,26. Class Methods and static Methods/app1.py,9/6/961ea45f01245f04c40479ac070b0a5aa8359675
+L
+27. Class Inheritance/app.py,e/a/ea54ff736f4a12f8dcafe5cefa243a1f25cf2b84
+L
+28. Class composition/app.py,4/5/4525bc94ccfb02e4703b7fb645159d59ffa0971c
+M
+28. Class composition/app1.py,4/8/48bca2e46efb469a4d2f61d0c0e35e3493c5189f
+V
+&29. Type Hinting in Python 3.5+/app.py,c/b/cb0330af8f08b5735c5b256d9a5e399e49dd9bf3
+L
+30. Imports in Python/app.py,c/d/cd645a30a0f8804c91321c8d3bafe16aa28c811b
+Q
+!30. Imports in Python/mymodule.py,0/a/0a2a3471625e6fdfde9ecf26b0c37b352640d366
+V
+&31. Relative Imports in Python/code.py,2/0/20072b06afb3a6e2ef80523747c5cf7307e2bbe7
+]
+-31. Relative Imports in Python/libs/mylibs.py,a/f/af871e781f4deaa10a1df6682cce971566d7dc4b
+j
+:31. Relative Imports in Python/libs/operations/operator.py,2/9/295ce1e5c8f47000f5234bef9fb07276dbc9e88f
+Z
+*31. Relative Imports in Python/mymodule.py,a/a/aaf4574ddaa62b5fc9c2ba69a48d92f8e55081b5
+M
+30. Imports in Python/code.py,0/a/0a3d78f5774e24d0a5ff7138257073f9626b78d6
+K
+32. Errors in Python/app.py,5/d/5d456e9b09557d9f3807829fbb5a646219777dab
+O
+33. Custom Error Classes/app.py,f/0/f03daf13a5a847f4fee28851b2d0a628e2118171
+Q
+!34. First Class Functions/app1.py,f/2/f2738ddb2add64850f78e895a85a34baaf272dc3
+P
+ 34. First Class Functions/app.py,d/b/dbccc2fe9f446706fe771f781cea116cb30e7018
+V
+&35. Simple Decorators in Python/app.py,0/b/0b6b3a75800dca787359d02a0627c1f1bbe43dfe
+R
+"36. At Syntax of decorators/app.py,1/9/19289dbbb68f14699231a85e97c94994dbeb71d9
+_
+/37. Decorating functions with parameters/app.py,d/a/dac1f711824a8b93c0fbaca4a8aa8c610bb55c3e
